@@ -12,7 +12,7 @@
 - **Nanyang Technological University (2015 - 2018)**
 <br> Bachelor of Engineering in Information Engineering and Media
 
-### Working experience
+### Working experiences
 - Aug 2019 - Present: Software Engineer, NCS Group, Singapore
 - Jul 2018 - Jul 2019: Application Support, United Overseas Bank Limited (UOB), Singapore
 - Jan 2017 - May 2017: Mobile Network Engineer (Intern), Huawei Technologies, Singapore
