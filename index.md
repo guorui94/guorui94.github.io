@@ -2,6 +2,8 @@
 
 ## Hello! I am currently a Master student in Electrical Engineering at National University of Singapore (NUS).
 
+<br>
+
 ### Research Interests
 <br>
 <br>
